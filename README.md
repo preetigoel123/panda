@@ -1,4 +1,3 @@
 # panda
-PREETIbhjaebkfeakjdfs
-JENKINS INTERGRATION
-shivam anandghgf
+PREETI
+poll scm
